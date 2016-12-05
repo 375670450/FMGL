@@ -7,3 +7,9 @@ body {
 a {
   color: #00B7FF;
 }
+
+#ctn {
+  margin: auto auto;
+  width:  640px;
+  height: 480px;
+}
